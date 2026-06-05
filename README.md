@@ -15,8 +15,6 @@ A dedicated and solution-driven Computer Science student focused on engineering 
 
 ## 🛠️ Technical Toolbox
 
-## 🛠️ Technical Toolbox
-
 ### 🌐 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -63,13 +61,6 @@ A dedicated and solution-driven Computer Science student focused on engineering 
 ## 📜 Certifications
 * **Sigma Web Development Course Completion** – Issued by CodeWithHarry (YouTube)
 
----
-
-## 📊 GitHub System & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulrehman307&theme=tokyonight&column=4" alt="Abdul Rehman's GitHub Trophies" width="100%" />
-</p>
 ---
 
 ## 🤝 Connect With Me
