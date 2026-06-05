@@ -65,4 +65,4 @@ A dedicated and solution-driven Computer Science student focused on engineering 
 
 ## 🤝 Connect With Me
 * 💼 **LinkedIn:** [linkedin.com/in/isabdulrehman](https://www.linkedin.com/in/isabdulrehman/)
-* 📧 **Email:** abdulrehman307655@gmail.com
+* 📧 **Email:** [abdulrehman0056922@gmail.com](mailto:abdulrehman0056922@gmail.com)
