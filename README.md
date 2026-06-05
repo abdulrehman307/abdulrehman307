@@ -68,9 +68,7 @@ A dedicated and solution-driven Computer Science student focused on engineering 
 ## 📊 GitHub System & Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abdulrehman307&theme=tokyonight&column=4" alt="Abdul Rehman's GitHub Trophies" width="100%" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulrehman307&theme=tokyonight&column=4" alt="Abdul Rehman's GitHub Trophies" width="100%" />
 </p>
 ---
 
