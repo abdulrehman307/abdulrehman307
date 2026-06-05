@@ -15,11 +15,27 @@ A dedicated and solution-driven Computer Science student focused on engineering 
 
 ## 🛠️ Technical Toolbox
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3 |
-| **Backend & Databases** | Node.js, Express.js, MongoDB, Mongoose, MySQL |
-| **Tools & Version Control** | Git, GitHub, VS Code, Anti Gravity |
+## 🛠️ Technical Toolbox
+
+### 🌐 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ Core Engineering & Tools
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -50,9 +66,10 @@ A dedicated and solution-driven Computer Science student focused on engineering 
 ---
 
 ## 📊 GitHub Stats & Ecosystem
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=abdulrehman307&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Abdul Rehman's GitHub Stats" height="180px"/>
-<img src="https://github-readme-top-langs.vercel.app/api/?username=abdulrehman307&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulrehman307&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Abdul Rehman's GitHub Stats" width="48%" />
+  <img src="https://github-readme-top-langs.vercel.app/api/?username=abdulrehman307&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
