@@ -59,9 +59,23 @@ A dedicated and solution-driven Computer Science student focused on engineering 
 ---
 
 ## 📜 Certifications
-* **Microsoft AI Skills Fest 2026** — Issued by Microsoft (Verified via Credly)
-  
-  [![Microsoft AI Skills Fest 2026](https://img.shields.io/badge/Microsoft-AI_Skills_Fest_2026-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/badges/8fafa564-cc1d-41cc-99d5-4957b50aa852)
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.credly.com/badges/8fafa564-cc1d-41cc-99d5-4957b50aa852/public_url" target="_blank">
+        <img src="https://images.credly.com/images/8fafa564-cc1d-41cc-99d5-4957b50aa852/image.png" width="130" alt="Microsoft AI Skills Fest 2026" />
+      </a>
+    </td>
+    <td>
+      <h3>Microsoft AI Skills Fest 2026</h3>
+      <p><strong>Issuer:</strong> Microsoft (Verified via Credly)</p>
+      <p>Demonstrated foundational skills in Artificial Intelligence concepts, Generative AI capabilities, and utilizing intelligent tools to drive innovation and technical efficiency.</p>
+      <a href="https://www.credly.com/badges/8fafa564-cc1d-41cc-99d5-4957b50aa852/public_url" target="_blank">
+        <img src="https://img.shields.io/badge/View_Credential-0078d4?style=flat&logo=microsoft&logoColor=white" alt="View Credential" />
+      </a>
+    </td>
+  </tr>
+</table>
 * **Sigma Web Development Course Completion** – Issued by CodeWithHarry (YouTube)
 
 ---
