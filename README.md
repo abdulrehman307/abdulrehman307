@@ -59,6 +59,9 @@ A dedicated and solution-driven Computer Science student focused on engineering 
 ---
 
 ## 📜 Certifications
+* **Microsoft AI Skills Fest 2026** — Issued by Microsoft (Verified via Credly)
+  
+  [![Microsoft AI Skills Fest 2026](https://img.shields.io/badge/Microsoft-AI_Skills_Fest_2026-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/badges/8fafa564-cc1d-41cc-99d5-4957b50aa852)
 * **Sigma Web Development Course Completion** – Issued by CodeWithHarry (YouTube)
 
 ---
